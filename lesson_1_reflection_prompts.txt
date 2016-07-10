@@ -1,0 +1,56 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+    It was easier to spot the differences
+
+
+
+How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?
+
+
+    You can view the view the changes made in the past.If you wanted to go back to a previous version made before,
+ you can go back and save or view it.  
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, 
+vs having versions automatically saved, like Google
+docs does?
+
+
+    You can find mistakes or changes in Git. In Git you can make commits which you can comment and find differences between changes,
+but you have to save manually.
+ Having versions like Googledocs automatically save can help save as you go, and you can view the previous changes, but you can't compare
+versions using things like diff.
+
+Why do you think some version control systems, like Git, allow saving multiple
+ files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+
+    Git would probably have more information stored, so manually saving a commit you can comment what changes were made at once. Version
+controls like Google Docs, I would think are for smaller changes where you can just go back to older versions.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+    You can use them to see the log of changes made and then you can see the differences if there are changes made and things don't work.
+
+
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+
+    You can go back to older commits and test out each one and then compare with other commits to verify where bugs are.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+    To check my commits for my changes
+. If I do need to make changes and I already have Git Bash open, I can open sublime through Git.
