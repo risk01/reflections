@@ -7,6 +7,8 @@ So if there are going to be future saved commits, it would go to the repository.
 
 
 How is the staging area different from the working directory and the repository?
+The staging area is where files are ready to be commited together. Working directory shows the list of files that are or aren't committed.
+Repository shows the commits made.
 
 
 What value do you think it offers?
